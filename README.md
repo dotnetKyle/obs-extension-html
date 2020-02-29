@@ -1,6 +1,8 @@
 # OBS Extension for HTML/CSS/Javascript
 A Template for a semi transparent OBS Extension that simply shows some text (an `<H1>` element).  Also has an updating timer that ticks.  Modify this template to fit your needs.
 
+![Screenshot of the look of the extension](ExtensionScreenshot.png "Screenshot of the look of the extension, extension is highlighted with the red border.")
+
 ## Instructions
  1. Open OBS and choose the `Scene` that you want to add the extension to.
  1. Under `Sources` hit the `[+]` button to add a New Source.
